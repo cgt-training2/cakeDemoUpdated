@@ -1,0 +1,26 @@
+<?php
+
+
+	angular.module('app').factory('searchService', searchService);
+
+	searchService.$inject = [ '$state', '$parse' ];
+	
+		function searchService($state, $parse) {
+			var rowListData = null;
+			var service = {		
+
+				setRowData: setRowData,
+				getRowData: getRowData
+
+		};
+
+	function setRowData(data){
+			rowListData = data;
+		}
+		function getRowData(){
+			return rowListData;
+		}
+	}
+
+
+?>

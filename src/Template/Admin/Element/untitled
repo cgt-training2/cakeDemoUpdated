@@ -1,0 +1,33 @@
+ <li class="<?php echo (!empty($this->params['action']) && ($this->params['action']=='index') )?'active' :'inactive' ?>">
+
+                                    <?= $this->Html->link('Index', ['controller'=>'Postsupdate','action' => 'index']) ?>
+
+                                </li>
+
+                                <li class="<?php echo (!empty($this->params['action']) && ($this->params['action']=='home') )?'active' :'inactive' ?>">
+
+                                    <?= $this->Html->link('Home', ['controller'=>'Postsupdate','action' => 'home']) ?>
+
+                                </li>
+
+                                <li class="<?php echo (!empty($this->params['action']) && ($this->params['action']=='attorney') )?'active' :'inactive' ?>">
+
+                                    <?= $this->Html->link('Attorney', ['controller'=>'Postsupdate','action' => 'attorney']) ?>
+
+                                </li>
+
+
+
+
+
+  		<li> <?= $this->Html->link('Index', ['controller' => 'Postsupdate','action' => 'index']) ?></li>
+
+        <li><?= $this->Html->link('Home', ['controller' => 'Postsupdate','action' => 'home']) ?></li>
+
+        <li><?= $this->Html->link('Attorneys', ['controller' => 'Postsupdate','action' => 'attorney']) ?></li>
+
+        <li><a href="#recent">Recent cases</a></li>
+
+        <li><a href="#resources">Resources</a></li>
+
+        <li><a href="#contacts">Contact Us</a></li>

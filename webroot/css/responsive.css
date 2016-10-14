@@ -1,0 +1,451 @@
+@media (min-width : 1023px) and (max-width : 1200px) {
+}
+ @media (min-width : 768px) and (max-width : 1023px) {
+}
+ @media only screen and (max-width : 767px) {
+}
+ @media only screen and (max-width : 479px) {
+
+			.background1{
+
+				width: 100%;
+				background-color: #0b52a6;
+
+			}
+
+			h1 {
+
+ 			   font-size: 28px;
+
+			}
+
+			.lowerP{
+
+				font-size: 13px;
+
+			}
+
+			.leftP{
+
+				width: 100%;
+
+			}
+
+			.rightP{
+
+				width: 100%;
+
+			}
+
+			.background1 {
+
+    			width: 100%;
+    			background-color: #0B52A6;
+    			margin-left: 23px;
+
+			}
+
+
+			.navbar-nav {
+
+    			margin: 5px 50px 5px -15px;
+
+			}
+
+
+			.navbar-default .navbar-nav > li > a {
+
+    			color: #0B52A6;
+    			text-align: center;
+
+			}
+
+
+			.respImage {
+
+    			margin-top: -20px;
+    			height: 150px;
+
+			}
+
+
+			.insideBanner {
+
+    			background-color: #0B52A6;
+    			opacity: 0.9;
+    			margin-top: -68px;
+
+			}
+
+
+			.insideBannerUpper h2{
+
+				font-size: 24px;
+
+			}
+
+
+			.insideBannerLower {
+
+    			color: #FFF;
+    			font-size: 12px;
+    			text-align: center;
+    			margin-top: -3px;
+    			margin-left: 0px;
+    			margin-right: 0px;
+
+			}
+
+
+			.middleSectionOneP1 {
+
+    			font-size: 18px;
+    			margin-left: 0px;
+
+			}
+
+
+			.middleSectionOneP2 {
+
+			    margin-left: 0px;
+			    font-size: 18px;
+			    margin-top: -11px;
+
+			}
+
+
+			.middleSectionTwoInner {
+
+    			margin-left: 0px;
+    			display: inline-block;
+
+			}
+
+
+			.middleSectionTwoRightTwo {
+
+    			float: left;
+    			margin-left: 28px;
+    			margin-top: 20px;
+
+			}
+
+
+			.footerMainDiv2Inner {
+
+ 			    width: 90%;
+    			margin-left: 0px;
+    			display: inline-block;
+
+			}
+
+
+			.footerMainDiv2Left {
+
+    			float: left;
+    			margin-left: 111px;
+
+			}
+
+
+			.footerMainDiv2Right {
+
+ 			   float: left;
+    		   margin-left: 37px;
+
+			}
+
+
+			.attorneyMiddleSection {
+
+    			margin-top: 400px;
+
+			}
+
+
+			.attorneyMiddleSection2Upper {
+
+    			display: inline-block;
+    			margin-top: 35px;
+    			margin-left: 95px;
+
+			}
+
+
+			.attorneyMiddleSection2UpperRight {
+
+    			float: left;
+    			margin-left: -78px;
+    			margin-top: 10px;
+
+			}
+
+			.attorneyMiddleSection2Lower {
+
+    			display: inline-block;
+    			margin-left: 110px;
+    			margin-top: 35px;
+
+			}
+
+
+			.attorneyMiddleSection2LowerRight {
+
+    			float: left;
+    			margin-left: -90px;
+    			margin-top: 10px;
+
+			}
+
+
+			.recentMiddle2 {
+
+    			margin-left: 43px;
+    			margin-top: 33px;
+ 		        font-size: 20px;
+
+			}	
+
+
+			.contactMiddleSection {
+
+ 			   margin-top: 400px;
+
+			}
+
+
+			.contactMiddleSection2 {
+
+    			display: inline-block;
+    			margin-top: 25px;
+    			margin-left: 45px;
+
+			}
+
+
+			.contactMiddleSection2Right {
+
+    			float: left;
+    			margin-left: -42px;
+
+			}
+
+
+			.mapImg{
+
+				display: block;
+				max-width: 63%;
+				height: auto;
+
+			}
+
+
+			.footerMainDiv2MainInner {
+
+    			display: inline-block;
+    			margin-left: 45px;
+
+			}
+
+
+			.footerMainDiv2Main1 {
+
+    			float: left;
+    			color: #FFF;
+    			margin-left: 41px;
+
+			}
+
+
+			.footerMainDiv3Upper {
+
+    			margin-left: -4%;
+    			width: 100%;
+
+			}
+
+
+			.insideBannerImgMainDiv {
+
+    			float: right;
+    			margin-top: -250px;
+
+			}
+
+			.loginSubUpperContainer{
+
+			    margin-left: 1px;
+			    margin-bottom: 20px;
+
+			}
+
+			.formEmail input{
+
+				float: left;
+				width: 50%;
+				margin-left: 44px;
+
+			}
+
+			.formPass input{
+
+				float: left;
+				width: 50%;
+				margin-left: 44px;
+
+			}
+
+			.loginSubUpperHeading{
+
+				color: white;
+				margin-top: 10px;
+				margin-left: 12px;
+				text-align: center;
+
+			}
+
+			.loginSubUpperLabel{
+
+				color: white;
+				text-align: center;
+				margin-left: 0;
+
+			}
+
+			.attorneyMiddleSection{
+
+				margin-top: 0px;
+
+			}
+			.footerMainDiv2Left{
+
+				float: left;
+				margin-left: 98px;
+
+			}
+
+			.footerMainDiv2Right{
+
+				float: left;
+				margin-left: 10px;
+
+			}
+
+
+			.paginatorMainDiv {
+
+			    list-style: none;
+			    display: block;
+			    width: 100%;
+			    margin: 0px auto;
+			    position: relative;
+			    overflow: hidden;
+
+			}
+
+			.paginatorMainDiv li{
+
+				float: left;
+				/*display: inline;*/
+				padding: 12px;
+			}
+
+			.contactMiddleSection{
+
+				margin-top: 0px;
+
+			}
+
+			.contactMiddleSection2Left{
+
+				/*float: left;*/
+				margin-top: 20px;
+				text-align: center;
+
+			}
+
+			.contactMiddleSection2Right{
+
+				margin-left: 0px;
+
+			}
+
+			.mapImg{
+
+				display: block;
+				max-width: 93%;
+				height: auto;
+
+			}
+
+			.section3{
+
+				width: 100%;
+				float: left;
+				margin-top: -15px;
+
+			}
+
+			.welcomeUser{
+
+				margin-top: 12px;
+				font-size: 16px;
+				color: #0b52a6;
+
+			}
+
+			.logoutLink{
+
+				float: left;
+				margin-top: 12px;
+				color: #0b52a6;
+				font-size: 16px;
+
+			}
+
+			.navbar-nav {
+
+ 			    margin: 5px 15px 5px 15px;
+
+			}
+
+			.typeSetting{
+
+				margin-left: 98px;
+
+			}
+
+			.loginMain{
+
+				margin-left: 0px;
+			}
+
+			.insideBannerUpper{
+
+			    text-align: center;
+    			color: white;
+    			float: left;
+    			width: 85%;
+
+			}
+
+			.insideBannerLower{
+
+				color: #FFF;
+				font-size: 12px;
+				text-align: center;
+				margin-top: -3px;
+				margin-left: 0px;
+				margin-right: 0px;
+				float: left;
+				width: 85%;
+
+			}
+
+			.insideBannerImgMainDiv{
+
+				float: right;
+				margin-top: -88px;
+			}
+
+}
